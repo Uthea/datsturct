@@ -1,3 +1,3 @@
-Data structure in C
+Data structure in C (Trees)
 
-include BST, Red black tree (without deletion function) and AVL tree
+include BST, Red Black Tree and AVL tree
